@@ -16,6 +16,7 @@ The solution should contain a assumptions, a CSV file with date in column 1, aff
 * Seaborn
 * Sickit Learn / Prophet
 
-wish to be useful for you!
+###### My last word:
+Stay Home, Stay Safe!!!!!
 
 ### Mohammad Jafarpour
