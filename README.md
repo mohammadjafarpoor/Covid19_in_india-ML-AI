@@ -9,13 +9,14 @@ The solution should contain a assumptions, a CSV file with date in column 1, aff
 * covid_19_india.csv
 * covid_vaccine_statewise.csv
 
-##### I have done this project by using:
+#### I have done this project by using:
 * Numpy
 * Pandas
 * Matplotlib
 * Seaborn
 * Sickit Learn / Prophet
-
+#### Remember:
+I put it in 2 notebooks because of its length is too long and you should merge them into one notebook and use.
 ###### My last word:
 Stay Home, Stay Safe!!!!!
 
